@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "First Stream Created",
+      "id": 1
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Make the user navigate to another page, without him clicking on something for that porpuse",
+      "id": 3
+    },
+    {
+      "title": "Me testing component ",
+      "description": "Trying to refactor a component",
+      "id": 4
+    }
+  ]
+}
